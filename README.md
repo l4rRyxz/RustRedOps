@@ -229,7 +229,6 @@ Once you have identified the desired target architecture, add it using rustup:
 ```sh
 rustup target add <arch>
 ```
-Replace <arch> with the desired architecture, such as x86_64-pc-windows-gnu.
 
 ### Compiling for a Specific Architecture
 
